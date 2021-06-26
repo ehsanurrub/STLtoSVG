@@ -1,0 +1,3 @@
+C:/Users/ehsan/CLionProjects/git/STLtoSVG/cmake-build-debug/CMakeFiles/STLtoSVG.dir
+C:/Users/ehsan/CLionProjects/git/STLtoSVG/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ehsan/CLionProjects/git/STLtoSVG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
